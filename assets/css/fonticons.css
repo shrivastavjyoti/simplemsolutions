@@ -39,7 +39,7 @@
 .icofont-apple-watch:before {
 	content: "\eaf8";
 }
-.icofont-drwaing-tablet:before {
+.icofont-drawing-tablet:before {
 	content: "\eaf9";
 }
 .icofont-earphone:before {
@@ -1534,6 +1534,10 @@
 	content: "\f116";
 }
 
+.icofont-simple-smile:before {
+	content: "\eb02";
+}
+
 /*Font size*/
 .icofont-lg {
     font-size: 1.33333333em;
@@ -1585,6 +1589,7 @@
     top: .14285714em;
     text-align: center;
 }
+
 
 /*Animation*/
 .icofont-rotate {
